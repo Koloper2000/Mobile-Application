@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369940467946",
+    "project_id": "motogp-a3fb2",
+    "storage_bucket": "motogp-a3fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369940467946:android:5ed95a84bfaeb31adc4793",
+        "android_client_info": {
+          "package_name": "com.example.motogp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369940467946-0fve1pcgp93386vva02r2q32bcnkmuu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByddD4lT5hl8zgbrnJEbEg6FGpzPdsPio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369940467946-0fve1pcgp93386vva02r2q32bcnkmuu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
